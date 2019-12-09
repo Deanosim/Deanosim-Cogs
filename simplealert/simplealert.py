@@ -15,4 +15,4 @@ class simplealert(commands.Cog):
         """This does stuff!"""
         # Your code will go here
         await ctx.send("World Domination is near!")
-        await ctx.send(datetime.strftime("%Y-%m-%d %H:%M:%S"))
+        await ctx.send(datetime.time.strftime("Current Date and time is: %Y-%m-%d %H:%M:%S"))
