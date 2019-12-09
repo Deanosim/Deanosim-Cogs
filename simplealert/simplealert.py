@@ -1,3 +1,7 @@
+import asyncio
+import time
+
+import discord
 from redbot.core import commands
 
 class simplealert(commands.Cog):

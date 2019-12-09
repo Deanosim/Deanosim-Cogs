@@ -1,0 +1,14 @@
+{
+    "name": "SimpleAlert",
+    "author": [
+        "Deanosim (Deanosim#1915)"
+    ],
+    "short": "WIP",
+    "description": "WIP",
+    "install_msg": "Thanks for installing SimpleAlert!",
+    "tags": [
+        "reminder",
+        "schedule",
+        "utility"
+    ]
+}
