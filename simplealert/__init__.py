@@ -1,4 +1,4 @@
 from .simplealert import simplealert
 
-def setup(bot):
-    bot.add_cog(simplealert())
+async def setup(bot):
+   await bot.add_cog(simplealert())
