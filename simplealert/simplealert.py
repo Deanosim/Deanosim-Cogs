@@ -14,5 +14,7 @@ class simplealert(commands.Cog):
     async def simplealert(self, ctx):
         """This does stuff!"""
         # Your code will go here
+        fmt = "**%Y-%m-%d %H:%M:%S**"
+        time = time.strftime(fmt)
         await ctx.send("World Domination is near!")
-        await ctx.send(datetime.datetime.strftime("Current Date and time is: "%Y-%m-%d %H:%M:%S))
+        await ctx.send(f"{str(time)}")
