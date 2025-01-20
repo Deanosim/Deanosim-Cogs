@@ -1,0 +1,14 @@
+{
+    "name": "NBNCo",
+    "author": [
+        "Deanosim (deanosim)"
+    ],
+    "short": "WIP Cog to make requests to the NBNCo API to retrieve NBN LOC Info",
+    "description": "WIP Cog to make requests to the NBNCo API to retrieve NBN LOC Info",
+    "install_msg": "Thanks for installing NBNCo!",
+    "tags": [
+        "status",
+        "api",
+        "utility"
+    ]
+}
